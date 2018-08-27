@@ -1,3 +1,12 @@
+.navbar-transparent{
+    border-color: transparent;
+    background-color: transparent !important;
+}
+
+body {
+    position: relative;
+}
+
 header.masthead {
     background-image: url("../img/foto-perfil.jpg");
     background-position: center center;

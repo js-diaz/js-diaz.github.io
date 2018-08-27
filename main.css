@@ -1,0 +1,71 @@
+header.masthead {
+    background-image: url("../img/foto-perfil.jpg");
+    background-position: center center;
+    background-size: cover;    
+    height: 100vh;
+}
+
+header.masthead h1 {
+    font-size: 4rem;
+    color: whitesmoke;
+}
+  
+header.masthead p {
+    font-size: 1.5rem;
+    color: rgba(245, 245, 245, 0.9);
+}
+
+hr {
+    max-width: 80px;
+    border-width: 3px;
+    border-color: #1323ff;
+}
+
+hr.dark {
+    border-color: black;    
+}
+
+section {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+#about {
+    background-color: #1323ff;
+}
+
+#education img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 200px;
+}
+
+#projects {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #1323ff;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.main-text
+{
+    position: absolute;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+
+#contact img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    height: 200px;
+}
